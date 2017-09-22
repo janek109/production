@@ -12,7 +12,6 @@
     <modules>
         <!--<module>production-infrastructure</module>-->
         <module>production-model</module>
-        <!--<module>production-playground</module>-->
     </modules>
 
 </project>
