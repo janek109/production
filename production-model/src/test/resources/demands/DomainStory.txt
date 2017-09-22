@@ -1,6 +1,6 @@
 
 Production plan schedule new production on line, using form, at time for duration. 
-        >> productionPlan.ScheduleNewProduction(line, form, time, duration) 
+        >> productionPlan.scheduleNewProduction(line, form, time, duration) 
         Only if form will be available at the time for whole duration, production may by planned. 
         Production includes retooling time, parts output of used form and utilization of human resources 
         on that production stage. 
